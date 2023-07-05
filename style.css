@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.external{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    background-color: lightcyan;
+    font-weight: 300;
+     word-spacing: 0.5rem;
+}
+h1, h3, p, ul{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    font-weight: 900;
+    color: chartreuse;
+}
+.para{
+    font-size: 18px;
+    text-align: justify;
+    background-color: lightyellow;
+    line-height: 1.5rem;
+
+}
+h3{
+    text-align: center;
+    color: darkorange;
+}
+ul{
+    font-size: 20px;
+    list-style-type: square;
+}
+.html, .css, .js{
+    text-transform: uppercase;
+}
